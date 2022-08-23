@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsite_poc_github_io=self.webpackChunkdocsite_poc_github_io||[]).push([[64195],{62841:(e,t,c)=>{c.r(t),c.d(t,{default:()=>i});var o=c(67294),s=c(76775);const i=()=>o.createElement(s.l_,{to:"/docs"})}}]);
